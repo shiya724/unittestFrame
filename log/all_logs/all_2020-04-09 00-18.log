@@ -1,0 +1,8 @@
+2020-04-09 00:18:49,205 - common.Driver - INFO - 成功找到chromedriver
+2020-04-09 00:18:49,208 - common.MyUnittest - INFO - 打开浏览器
+2020-04-09 00:18:53,635 - pageObject.basePage - INFO - 成功进入https://cn.bing.com/ 
+2020-04-09 00:18:57,901 - pageObject.basePage - INFO - https://cn.bing.com/ 加载成功!
+2020-04-09 00:18:57,902 - common.MyUnittest - INFO - ************************ 开始执行测试用例 ************************
+2020-04-09 00:18:57,902 - testLogin - INFO - 第一次测试
+2020-04-09 00:18:58,607 - common.MyUnittest - INFO - ************************ 测试用例执行结束 ************************
+2020-04-09 00:19:05,799 - common.MyUnittest - INFO - 退出浏览器
