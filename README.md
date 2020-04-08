@@ -1,0 +1,2 @@
+# unittestFrame
+这是一个适合初学python+selenium所的一个基本框架 ，结合unittest和pageObject设计模式，可生成错误日志及含失败截图和饼状图的HTMLTestRunner报告
